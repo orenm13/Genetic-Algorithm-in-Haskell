@@ -1,7 +1,7 @@
 # Genetic-Algoritm
 
 This implementation of Genetic Algorithm is based on the ideas from the article:
-[Genetig Algorithm on Polynomials](https://www.researchgate.net/publication/269132907_Optimal_Polynomial_Regression_Models_by_using_a_Genetic_Algorithm)
+[Genetic Algorithm on Polynomials](https://www.researchgate.net/publication/269132907_Optimal_Polynomial_Regression_Models_by_using_a_Genetic_Algorithm)
 
 ### Usage:
 
