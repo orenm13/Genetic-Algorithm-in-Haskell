@@ -3,7 +3,7 @@
 This implementation of Genetic Algorithm is based on the ideas from the article:
 [Genetig Algorithm on Polynomials](https://www.researchgate.net/publication/269132907_Optimal_Polynomial_Regression_Models_by_using_a_Genetic_Algorithm)
 
-###Usage:
+### Usage:
 
 ```
 stack install
@@ -11,7 +11,7 @@ Genetic-Algoritm-exe <Num of GEnerations> <Size of population> <Threshold fitnes
 ```
 Currently the code tries to find Rosenbrock function from the above Article.
 
-Notice that if the Algirithm reaches the threshold before the final Genretation it will return the output and stop. For Example this is a test run from my PC (the +RTS flag uses to work on 8 cores):
+Notice that if the Algirithm reaches the threshold before the final genretation it will return the output and stop. For example this is a test run from my PC (the +RTS flag uses to work on 8 cores):
 
 ```
 » Genetic-Algoritm-exe 500 20 0.01 10 +RTS -N8                                                                                             orenm@OrenPC
